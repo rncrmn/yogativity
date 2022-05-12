@@ -4,7 +4,7 @@ import WhyChooseUsImg from "../assets/img/why-choose-us.jpg";
 const WhyChooseUs: FC = () => {
     return (
         <div className="py-10 md:py-20">
-            <div className="container px-8 py-3 mx-auto md:py-6 md:w-9/12 md:px-0">
+            <div className="container px-8 py-3 mx-auto md:py-6 md:max-w-screen-xl md:px-0">
                 <div className="grid grid-cols-1 gap-10 md:grid-cols-2">
                     <div className="flex flex-col justify-center order-2 gap-6 md:order-1">
                         <h2 className="text-lg font-semibold text-gray-400 uppercase">

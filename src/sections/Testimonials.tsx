@@ -26,8 +26,8 @@ const Testimonials = () => {
     ];
 
     return (
-        <div className="container py-10 md:py-20 " id="testimonial">
-            <div className="container px-8 py-3 mx-auto md:py-6 md:w-9/12 md:px-0">
+        <div className="py-10 md:py-20 " id="testimonial">
+            <div className="container px-8 py-3 mx-auto md:py-6 md:max-w-screen-xl md:px-0">
                 <h2 className="mb-10 text-lg font-semibold text-center text-gray-400 uppercase">
                     Testimonials
                 </h2>

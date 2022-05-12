@@ -7,7 +7,7 @@ const Intro: FC = () => {
             id="home"
         >
             <div className="py-10 md:py-20 bg-gradient-to-r from-pink-400">
-                <div className="container py-3 mx-auto md:py-6 md:w-9/12 px-7 md:px-0">
+                <div className="container py-3 mx-auto md:py-6 md:max-w-screen-xl px-7 md:px-0">
                     <div className="flex flex-col justify-center w-full gap-10 md:w-5/12">
                         <h1 className="text-5xl font-semibold leading-normal tracking-wide text-white md:text-6xl">
                             Yogativity Yoga Studio{" "}
